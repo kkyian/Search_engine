@@ -10,7 +10,7 @@ HEADERS = {
 }
 
 # How many top links to fetch
-MAX_RESULTS = 3
+MAX_RESULTS = 35
 
 # Timeout for HTTP requests (in seconds)
-REQUEST_TIMEOUT = 5
+REQUEST_TIMEOUT = 3
